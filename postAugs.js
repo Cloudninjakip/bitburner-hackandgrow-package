@@ -1,0 +1,7 @@
+await ns.exec(`hackandgrowtrigger.js,the-hub`)
+await ns.exec(`hackandgrowtrigger.js,joesguns`)
+await ns.exec(`hackandgrowtrigger.js,4sigma`)
+await ns.exec(`hackandgrowtrigger.js,n00dles`)
+await ns.exec(`hackandgrowtrigger.js,blade`)
+await ns.exec(`hackandgrowtrigger.js,fulcrumtech`)
+await ns.exec(`hackandgrowtrigger.js,megacorp`)
